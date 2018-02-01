@@ -1,0 +1,72 @@
+[submodule "andschwa"]
+	path = andschwa
+	url = https://github.com/andschwa/dotfiles
+	branch = master
+[submodule "ashishb"]
+	path = ashishb
+	url = https://github.com/ashishb/dotfiles
+	branch = master
+[submodule "atomantic"]
+	path = atomantic
+	url = https://github.com/atomantic/dotfiles
+	branch = master
+[submodule "bndabbs"]
+	path = bndabbs
+	url = https://github.com/bndabbs/dotfiles
+	branch = master
+[submodule "cowboy"]
+	path = cowboy
+	url = https://github.com/cowboy/dotfiles
+	branch = master
+[submodule "dikiaap"]
+	path = dikiaap
+	url = https://github.com/dikiaap/dotfiles
+	branch = master
+[submodule "driesvints"]
+	path = driesvints
+	url = https://github.com/driesvints/dotfiles
+	branch = master
+[submodule "eduardolundgren"]
+	path = eduardolundgren
+	url = https://github.com/eduardolundgren/dotfiles
+	branch = master
+[submodule "holman"]
+	path = holman
+	url = https://github.com/holman/dotfiles
+	branch = master
+[submodule "jeffaco"]
+	path = jeffaco
+	url = https://github.com/jeffaco/dotfiles
+	branch = master
+[submodule "mathiasbynens"]
+	path = mathiasbynens
+	url = https://github.com/mathiasbynens/dotfiles
+	branch = master
+[submodule "mihaliak"]
+	path = mihaliak
+	url = https://github.com/mihaliak/dotfiles
+	branch = master
+[submodule "nicksp"]
+	path = nicksp
+	url = https://github.com/nicksp/dotfiles
+	branch = master
+[submodule "paulmillr"]
+	path = paulmillr
+	url = https://github.com/paulmillr/dotfiles
+	branch = master
+[submodule "rkalis"]
+	path = rkalis
+	url = https://github.com/rkalis/dotfiles
+	branch = master
+[submodule "sapegin"]
+	path = sapegin
+	url = https://github.com/sapegin/dotfiles
+	branch = master
+[submodule "skwp"]
+	path = skwp
+	url = https://github.com/skwp/dotfiles
+	branch = master
+[submodule "xero"]
+	path = xero
+	url = https://github.com/xero/dotfiles
+	branch = master
