@@ -73,3 +73,12 @@
 [submodule "aouelete"]
 	path = aouelete
 	url = https://github.com/aouelete/dotfiles
+[submodule "thoughtbot"]
+	path = thoughtbot
+	url = https://github.com/thoughtbot/dotfiles
+[submodule "rhysd"]
+	path = rhysd
+	url = https://github.com/rhysd/dogfiles
+[submodule "bchretien"]
+	path = bchretien
+	url = https://github.com/bchretien/dotfiles
