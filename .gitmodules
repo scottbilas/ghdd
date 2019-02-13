@@ -70,3 +70,6 @@
 	path = xero
 	url = https://github.com/xero/dotfiles
 	branch = master
+[submodule "aouelete"]
+	path = aouelete
+	url = https://github.com/aouelete/dotfiles
